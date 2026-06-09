@@ -12,4 +12,5 @@ $$\color{#99A566} Koichi $$ $$\color{#DFBF79} or $$ $$\color{#99A566} Mutt $$
 
 <h6 align="center">
 
+very fixated on btd , and jjba4 ( mostly rohan + koichi ) at the moment ^.^
 
