@@ -1,5 +1,5 @@
 <h6 align="center">
-
+$$\color{#99A566} Koichi $$ $$\color{#DFBF79} or $$ $$\color{#99A566} Mutt $$
 <img src="https://files.catbox.moe/fxaf6f.png" width="250" />.
 
 
@@ -7,5 +7,4 @@
 
 <h6 align="center">
 
-$$\color{#99A566} Koichi $$ $$\color{#DFBF79} or $$ $$\color{#99A566} Mutt $$
 
