@@ -13,3 +13,4 @@ $$\color{#99A566} Koichi $$ $$\color{#DFBF79} or $$ $$\color{#99A566} Mutt $$
 <h6 align="center">
 $$\color{#99A566} fixated $$ $$\color{#DFBF79} on $$ $$\color{#99A566} btd $$ $$\color{#DFBF79} and $$ $$\color{#99A566} jjba4 $$ $$\color{#DFBF79} ( rohan  $$ $$\color{#DFBF79} + $$ $$\color{#99A566} koichi ) $$
 
+<img src="https://files.catbox.moe/p7oj6g.png" width="100" />
