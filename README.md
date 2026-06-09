@@ -1,5 +1,5 @@
 <h6 align="center">
-![profileviews](https://komarev.com/ghpvc/?username=MoriohChoRadio&label=ᯤ&color=#99A566)
+
 
 <h6 align="center">
 $$\color{#99A566} Koichi $$ $$\color{#DFBF79} or $$ $$\color{#99A566} Mutt $$
